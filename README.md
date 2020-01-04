@@ -1,0 +1,1 @@
+# Sample-XMP-Metadata-Extension
